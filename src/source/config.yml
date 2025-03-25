@@ -1,11 +1,12 @@
 types : eenheids
 skos:
   rules :
+    dbo_rules : /n3/dbo-rules.n3
     skos_rules : /../node_modules/maven-metadata-generator-npm/src/n3/skos-rules.n3
     dcterms_rules : /../node_modules/maven-metadata-generator-npm/src/n3/dcterms-rules.n3
-    dbo_rules : /n3/dbo-rules.n3
+
   prefixes :
-    concept : https://data.omgeving.vlaanderen.be/id/concept/eenheid/
+    concept : https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/
     collectie : https://data.omgeving.vlaanderen.be/id/collection/eenheid/
   path: ./main/resources/be/vlaanderen/omgeving/data/id/conceptscheme/
   name: eenheid
@@ -157,6 +158,9 @@ prefixes :
   xsd: http://www.w3.org/2001/XMLSchema#
   wb : https://data.omgeving.vlaanderen.be/id/concept/waardebepaling/
   dr : https://data.omgeving.vlaanderen.be/id/concept/drager/
-  par: https://data.omgeving.vlaanderen.be/ns/eenheid#
+  par: https://data.omgeving.vlaanderen.be/ns/parameter#
+  enh_alias: https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/
+  kwasp: https://data.omgeving.vlaanderen.be/id/concept/kwantificeerbaar_aspect/
+  enh: https://data.omgeving.vlaanderen.be/id/concept/eenheid/
 deploy:
   virtuoso: virtuoso-algemeen

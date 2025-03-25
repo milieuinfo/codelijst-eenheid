@@ -3,7 +3,6 @@
 @prefix dbo: <http://dbpedia.org/ontology/>.
 
 
-{ ?x par:variabele ?y. ?x a par:Parameter }  => { ?y a dbo:ChemicalCompound }.
-
 { ?x par:applicableUnit ?y }  => { ?x a par:KwantificeerbaarAspect}.
 { ?x par:applicableUnit ?y }  => { ?y a par:Eenheid}.
+
