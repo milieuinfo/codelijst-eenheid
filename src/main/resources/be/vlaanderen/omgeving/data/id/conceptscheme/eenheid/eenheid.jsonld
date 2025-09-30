@@ -440,5 +440,853 @@
         "kwasp": "https://data.omgeving.vlaanderen.be/id/concept/kwantificeerbaar_aspect/",
         "enh": "https://data.omgeving.vlaanderen.be/id/concept/eenheid/",
         "@base": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/"
-    }
+    },
+    "graph": [
+        {
+            "id": "concept:1",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_96",
+            "prefLabel": "mg/kg ds"
+        },
+        {
+            "id": "concept:10",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_105",
+            "prefLabel": "kgN/d"
+        },
+        {
+            "id": "concept:11",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_106",
+            "prefLabel": "gN/d"
+        },
+        {
+            "id": "concept:12",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_107",
+            "prefLabel": "mgN/d"
+        },
+        {
+            "id": "concept:13",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_108",
+            "prefLabel": "tN/jr"
+        },
+        {
+            "id": "concept:14",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_109",
+            "prefLabel": "kgN/jr"
+        },
+        {
+            "id": "concept:15",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_110",
+            "prefLabel": "kgN/u"
+        },
+        {
+            "id": "concept:16",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_111",
+            "prefLabel": "mgN"
+        },
+        {
+            "id": "concept:17",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_112",
+            "prefLabel": "gN"
+        },
+        {
+            "id": "concept:18",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_113",
+            "prefLabel": "kgN"
+        },
+        {
+            "id": "concept:19",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_114",
+            "prefLabel": "gO2"
+        },
+        {
+            "id": "concept:2",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_97",
+            "prefLabel": "µg/kg ds"
+        },
+        {
+            "id": "concept:20",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_115",
+            "prefLabel": "kgO2"
+        },
+        {
+            "id": "concept:21",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_116",
+            "prefLabel": "gO2/d"
+        },
+        {
+            "id": "concept:22",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_117",
+            "prefLabel": "kgO2/jr"
+        },
+        {
+            "id": "concept:23",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_118",
+            "prefLabel": "kgO2/d"
+        },
+        {
+            "id": "concept:24",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_119",
+            "prefLabel": "gC"
+        },
+        {
+            "id": "concept:25",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_120",
+            "prefLabel": "kgC"
+        },
+        {
+            "id": "concept:26",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_121",
+            "prefLabel": "kgC/d"
+        },
+        {
+            "id": "concept:27",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_122",
+            "prefLabel": "gC/d"
+        },
+        {
+            "id": "concept:28",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_123",
+            "prefLabel": "mgC/kg ds"
+        },
+        {
+            "id": "concept:29",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_124",
+            "prefLabel": "gC/kg ds"
+        },
+        {
+            "id": "concept:3",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_98",
+            "prefLabel": "µg/kg ng"
+        },
+        {
+            "id": "concept:30",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_125",
+            "prefLabel": "mgN/kg ds"
+        },
+        {
+            "id": "concept:31",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_126",
+            "prefLabel": "mgNH4/L"
+        },
+        {
+            "id": "concept:32",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_127",
+            "prefLabel": "mgCl/kg ds"
+        },
+        {
+            "id": "concept:33",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_128",
+            "prefLabel": "mgCl/L"
+        },
+        {
+            "id": "concept:34",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_129",
+            "prefLabel": "µgCl/L"
+        },
+        {
+            "id": "concept:35",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_130",
+            "prefLabel": "mgP/kg ds"
+        },
+        {
+            "id": "concept:36",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_131",
+            "prefLabel": "mgP/L"
+        },
+        {
+            "id": "concept:37",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_132",
+            "prefLabel": "µgP/L"
+        },
+        {
+            "id": "concept:38",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_133",
+            "prefLabel": "µgSn/kg ds"
+        },
+        {
+            "id": "concept:39",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_134",
+            "prefLabel": "mgSn/kg ds"
+        },
+        {
+            "id": "concept:4",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_99",
+            "prefLabel": "g/g ng"
+        },
+        {
+            "id": "concept:40",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_135",
+            "prefLabel": "ngSn/L"
+        },
+        {
+            "id": "concept:41",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_136",
+            "prefLabel": "µgSn/L"
+        },
+        {
+            "id": "concept:42",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_137",
+            "prefLabel": "mgS/L"
+        },
+        {
+            "id": "concept:43",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_138",
+            "prefLabel": "µgS/L"
+        },
+        {
+            "id": "concept:44",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_139",
+            "prefLabel": "mgCaCO3/L"
+        },
+        {
+            "id": "concept:45",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_140",
+            "prefLabel": "mgSiO2/L"
+        },
+        {
+            "id": "concept:46",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_141",
+            "prefLabel": "gP/d"
+        },
+        {
+            "id": "concept:47",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_142",
+            "prefLabel": "kgP/d"
+        },
+        {
+            "id": "concept:48",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_143",
+            "prefLabel": "tP/jr"
+        },
+        {
+            "id": "concept:49",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_144",
+            "prefLabel": "kgP/u"
+        },
+        {
+            "id": "concept:5",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_100",
+            "prefLabel": "mgC/L"
+        },
+        {
+            "id": "concept:50",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_145",
+            "prefLabel": "kgP/jr"
+        },
+        {
+            "id": "concept:51",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_146",
+            "prefLabel": "mgCl/d"
+        },
+        {
+            "id": "concept:52",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_147",
+            "prefLabel": "gCl/d"
+        },
+        {
+            "id": "concept:53",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_148",
+            "prefLabel": "kgCl/d"
+        },
+        {
+            "id": "concept:54",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_149",
+            "prefLabel": "kgCl"
+        },
+        {
+            "id": "concept:55",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_150",
+            "prefLabel": "mgCl"
+        },
+        {
+            "id": "concept:56",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_151",
+            "prefLabel": "kgP"
+        },
+        {
+            "id": "concept:57",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_152",
+            "prefLabel": "gP"
+        },
+        {
+            "id": "concept:58",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_153",
+            "prefLabel": "µgSn"
+        },
+        {
+            "id": "concept:59",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_154",
+            "prefLabel": "17b estradiol eq/L"
+        },
+        {
+            "id": "concept:6",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_101",
+            "prefLabel": "µgC/L"
+        },
+        {
+            "id": "concept:60",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_155",
+            "prefLabel": "dexamethasone eq/L"
+        },
+        {
+            "id": "concept:61",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_156",
+            "prefLabel": "actinomycin D eq/L"
+        },
+        {
+            "id": "concept:62",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_157",
+            "prefLabel": "benzo(a)pyrene eq/L"
+        },
+        {
+            "id": "concept:63",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_158",
+            "prefLabel": "nicardipine eq/L"
+        },
+        {
+            "id": "concept:64",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_159",
+            "prefLabel": "ngTEQ/kg ds"
+        },
+        {
+            "id": "concept:65",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_160",
+            "prefLabel": "µgWHO-TEQ2005/kg ng"
+        },
+        {
+            "id": "concept:66",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_161",
+            "prefLabel": "pg WHO-TEQ2005/g ng"
+        },
+        {
+            "id": "concept:67",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_162",
+            "prefLabel": "%effect"
+        },
+        {
+            "id": "concept:68",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_163",
+            "prefLabel": "%mort"
+        },
+        {
+            "id": "concept:69",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_164",
+            "prefLabel": "mgTEQ/jr"
+        },
+        {
+            "id": "concept:7",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_102",
+            "prefLabel": "mgO2/L"
+        },
+        {
+            "id": "concept:70",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_165",
+            "prefLabel": "µgC9PEO/L"
+        },
+        {
+            "id": "concept:71",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_166",
+            "prefLabel": "µgC13EO/L"
+        },
+        {
+            "id": "concept:72",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_167",
+            "prefLabel": "µg TBySn ac. eq./L"
+        },
+        {
+            "id": "concept:73",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_168",
+            "prefLabel": "µgSn/d"
+        },
+        {
+            "id": "concept:74",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_169",
+            "prefLabel": "gCl"
+        },
+        {
+            "id": "concept:75",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_170",
+            "prefLabel": "kgO2/u"
+        },
+        {
+            "id": "concept:76",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_171",
+            "prefLabel": "mgP/d"
+        },
+        {
+            "id": "concept:77",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_172",
+            "prefLabel": "mg/Nm³"
+        },
+        {
+            "id": "concept:78",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_173",
+            "prefLabel": "pgTEQ/Nm³"
+        },
+        {
+            "id": "concept:79",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_174",
+            "prefLabel": "gTEQ/jr"
+        },
+        {
+            "id": "concept:8",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_103",
+            "prefLabel": "mgN/L"
+        },
+        {
+            "id": "concept:80",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_175",
+            "prefLabel": "Nm³/u"
+        },
+        {
+            "id": "concept:81",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_176",
+            "prefLabel": "µgTEQ/u"
+        },
+        {
+            "id": "concept:82",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_177",
+            "prefLabel": "MWth"
+        },
+        {
+            "id": "concept:83",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_178",
+            "prefLabel": "mgF/L"
+        },
+        {
+            "id": "concept:84",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_179",
+            "prefLabel": "µgF/L"
+        },
+        {
+            "id": "concept:85",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_180",
+            "prefLabel": "mgF"
+        },
+        {
+            "id": "concept:86",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_181",
+            "prefLabel": "kgF/d"
+        },
+        {
+            "id": "concept:87",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_182",
+            "prefLabel": "mgF/d"
+        },
+        {
+            "id": "concept:88",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_183",
+            "prefLabel": "kgF"
+        },
+        {
+            "id": "concept:89",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_184",
+            "prefLabel": "gF"
+        },
+        {
+            "id": "concept:9",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_104",
+            "prefLabel": "µgN/L"
+        },
+        {
+            "id": "concept:90",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_185",
+            "prefLabel": "gF/d"
+        },
+        {
+            "id": "concept:91",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_188",
+            "prefLabel": "ng 17b estrad eq/L"
+        },
+        {
+            "id": "concept:92",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_189",
+            "prefLabel": "ng PFOA eq/L"
+        },
+        {
+            "id": "concept:93",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_190",
+            "prefLabel": "ng PFOA eq/kg ds"
+        },
+        {
+            "id": "concept:94",
+            "type": [
+                "skos:Concept",
+                "par:Eenheid"
+            ],
+            "code": "E_191",
+            "prefLabel": "ng TCDD eq/kg ds"
+        }
+    ]
 }

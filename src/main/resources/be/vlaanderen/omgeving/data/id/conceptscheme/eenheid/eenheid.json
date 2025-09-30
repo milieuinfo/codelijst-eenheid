@@ -1,0 +1,848 @@
+[
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/1",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_96",
+        "prefLabel": "mg/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/10",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_105",
+        "prefLabel": "kgN/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/11",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_106",
+        "prefLabel": "gN/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/12",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_107",
+        "prefLabel": "mgN/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/13",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_108",
+        "prefLabel": "tN/jr"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/14",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_109",
+        "prefLabel": "kgN/jr"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/15",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_110",
+        "prefLabel": "kgN/u"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/16",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_111",
+        "prefLabel": "mgN"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/17",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_112",
+        "prefLabel": "gN"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/18",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_113",
+        "prefLabel": "kgN"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/19",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_114",
+        "prefLabel": "gO2"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/2",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_97",
+        "prefLabel": "µg/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/20",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_115",
+        "prefLabel": "kgO2"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/21",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_116",
+        "prefLabel": "gO2/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/22",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_117",
+        "prefLabel": "kgO2/jr"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/23",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_118",
+        "prefLabel": "kgO2/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/24",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_119",
+        "prefLabel": "gC"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/25",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_120",
+        "prefLabel": "kgC"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/26",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_121",
+        "prefLabel": "kgC/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/27",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_122",
+        "prefLabel": "gC/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/28",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_123",
+        "prefLabel": "mgC/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/29",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_124",
+        "prefLabel": "gC/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/3",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_98",
+        "prefLabel": "µg/kg ng"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/30",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_125",
+        "prefLabel": "mgN/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/31",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_126",
+        "prefLabel": "mgNH4/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/32",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_127",
+        "prefLabel": "mgCl/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/33",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_128",
+        "prefLabel": "mgCl/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/34",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_129",
+        "prefLabel": "µgCl/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/35",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_130",
+        "prefLabel": "mgP/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/36",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_131",
+        "prefLabel": "mgP/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/37",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_132",
+        "prefLabel": "µgP/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/38",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_133",
+        "prefLabel": "µgSn/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/39",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_134",
+        "prefLabel": "mgSn/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/4",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_99",
+        "prefLabel": "g/g ng"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/40",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_135",
+        "prefLabel": "ngSn/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/41",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_136",
+        "prefLabel": "µgSn/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/42",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_137",
+        "prefLabel": "mgS/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/43",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_138",
+        "prefLabel": "µgS/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/44",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_139",
+        "prefLabel": "mgCaCO3/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/45",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_140",
+        "prefLabel": "mgSiO2/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/46",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_141",
+        "prefLabel": "gP/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/47",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_142",
+        "prefLabel": "kgP/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/48",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_143",
+        "prefLabel": "tP/jr"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/49",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_144",
+        "prefLabel": "kgP/u"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/5",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_100",
+        "prefLabel": "mgC/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/50",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_145",
+        "prefLabel": "kgP/jr"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/51",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_146",
+        "prefLabel": "mgCl/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/52",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_147",
+        "prefLabel": "gCl/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/53",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_148",
+        "prefLabel": "kgCl/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/54",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_149",
+        "prefLabel": "kgCl"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/55",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_150",
+        "prefLabel": "mgCl"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/56",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_151",
+        "prefLabel": "kgP"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/57",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_152",
+        "prefLabel": "gP"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/58",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_153",
+        "prefLabel": "µgSn"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/59",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_154",
+        "prefLabel": "17b estradiol eq/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/6",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_101",
+        "prefLabel": "µgC/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/60",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_155",
+        "prefLabel": "dexamethasone eq/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/61",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_156",
+        "prefLabel": "actinomycin D eq/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/62",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_157",
+        "prefLabel": "benzo(a)pyrene eq/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/63",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_158",
+        "prefLabel": "nicardipine eq/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/64",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_159",
+        "prefLabel": "ngTEQ/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/65",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_160",
+        "prefLabel": "µgWHO-TEQ2005/kg ng"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/66",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_161",
+        "prefLabel": "pg WHO-TEQ2005/g ng"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/67",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_162",
+        "prefLabel": "%effect"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/68",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_163",
+        "prefLabel": "%mort"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/69",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_164",
+        "prefLabel": "mgTEQ/jr"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/7",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_102",
+        "prefLabel": "mgO2/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/70",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_165",
+        "prefLabel": "µgC9PEO/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/71",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_166",
+        "prefLabel": "µgC13EO/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/72",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_167",
+        "prefLabel": "µg TBySn ac. eq./L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/73",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_168",
+        "prefLabel": "µgSn/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/74",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_169",
+        "prefLabel": "gCl"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/75",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_170",
+        "prefLabel": "kgO2/u"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/76",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_171",
+        "prefLabel": "mgP/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/77",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_172",
+        "prefLabel": "mg/Nm³"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/78",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_173",
+        "prefLabel": "pgTEQ/Nm³"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/79",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_174",
+        "prefLabel": "gTEQ/jr"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/8",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_103",
+        "prefLabel": "mgN/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/80",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_175",
+        "prefLabel": "Nm³/u"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/81",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_176",
+        "prefLabel": "µgTEQ/u"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/82",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_177",
+        "prefLabel": "MWth"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/83",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_178",
+        "prefLabel": "mgF/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/84",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_179",
+        "prefLabel": "µgF/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/85",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_180",
+        "prefLabel": "mgF"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/86",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_181",
+        "prefLabel": "kgF/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/87",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_182",
+        "prefLabel": "mgF/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/88",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_183",
+        "prefLabel": "kgF"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/89",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_184",
+        "prefLabel": "gF"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/9",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_104",
+        "prefLabel": "µgN/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/90",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_185",
+        "prefLabel": "gF/d"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/91",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_188",
+        "prefLabel": "ng 17b estrad eq/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/92",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_189",
+        "prefLabel": "ng PFOA eq/L"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/93",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_190",
+        "prefLabel": "ng PFOA eq/kg ds"
+    },
+    {
+        "id": "https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/94",
+        "type": [
+            "http://www.w3.org/2004/02/skos/core#Concept",
+            "https://data.omgeving.vlaanderen.be/ns/parameter#Eenheid"
+        ],
+        "code": "E_191",
+        "prefLabel": "ng TCDD eq/kg ds"
+    }
+]

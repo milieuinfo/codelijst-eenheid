@@ -5,4 +5,5 @@
 
 { ?x par:applicableUnit ?y }  => { ?x a par:KwantificeerbaarAspect}.
 { ?x par:applicableUnit ?y }  => { ?y a par:Eenheid}.
+{ ?x skos:notation ?y }  => { ?x a skos:Concept }.
 

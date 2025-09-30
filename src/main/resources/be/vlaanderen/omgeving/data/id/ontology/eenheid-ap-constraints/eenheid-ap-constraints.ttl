@@ -346,7 +346,6 @@ omg_ps:eenheid_rdf_type
     sh:name          "rdf type"@en ;
     sh:description   "Aanduiding dat een bron een instantie van een bepaalde klasse is."@en ;
     rdfs:isDefinedBy omg_ont:eenheid-ap-constraints, omg_voc:eenheid-ap-constraints ;
-    sh:maxCount      1 ;
     sh:minCount      1 ;
     sh:nodeKind      sh:IRI ;
     sh:path          rdf:type .
@@ -357,7 +356,6 @@ omg_ps:col_cs_rdf_type
     sh:name          "rdf type"@en ;
     sh:description   "Aanduiding dat een bron een instantie van een bepaalde klasse is."@en ;
     rdfs:isDefinedBy omg_ont:eenheid-ap-constraints, omg_voc:eenheid-ap-constraints ;
-    sh:maxCount      1 ;
     sh:minCount      1 ;
     sh:nodeKind      sh:IRI ;
     sh:path          rdf:type .

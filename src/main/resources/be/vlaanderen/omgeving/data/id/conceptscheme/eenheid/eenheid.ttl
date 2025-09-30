@@ -64,286 +64,286 @@
 @prefix kwasp: <https://data.omgeving.vlaanderen.be/id/concept/kwantificeerbaar_aspect/>.
 @prefix enh: <https://data.omgeving.vlaanderen.be/id/concept/eenheid/>.
 
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/10> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/10> a skos:Concept, par:Eenheid;
     skos:notation "E_105";
     skos:prefLabel "kgN/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/11> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/11> a skos:Concept, par:Eenheid;
     skos:notation "E_106";
     skos:prefLabel "gN/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/12> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/12> a skos:Concept, par:Eenheid;
     skos:notation "E_107";
     skos:prefLabel "mgN/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/13> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/13> a skos:Concept, par:Eenheid;
     skos:notation "E_108";
     skos:prefLabel "tN/jr"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/14> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/14> a skos:Concept, par:Eenheid;
     skos:notation "E_109";
     skos:prefLabel "kgN/jr"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/15> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/15> a skos:Concept, par:Eenheid;
     skos:notation "E_110";
     skos:prefLabel "kgN/u"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/16> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/16> a skos:Concept, par:Eenheid;
     skos:notation "E_111";
     skos:prefLabel "mgN"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/17> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/17> a skos:Concept, par:Eenheid;
     skos:notation "E_112";
     skos:prefLabel "gN"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/18> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/18> a skos:Concept, par:Eenheid;
     skos:notation "E_113";
     skos:prefLabel "kgN"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/19> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/19> a skos:Concept, par:Eenheid;
     skos:notation "E_114";
     skos:prefLabel "gO2"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/1> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/1> a skos:Concept, par:Eenheid;
     skos:notation "E_96";
     skos:prefLabel "mg/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/20> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/20> a skos:Concept, par:Eenheid;
     skos:notation "E_115";
     skos:prefLabel "kgO2"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/21> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/21> a skos:Concept, par:Eenheid;
     skos:notation "E_116";
     skos:prefLabel "gO2/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/22> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/22> a skos:Concept, par:Eenheid;
     skos:notation "E_117";
     skos:prefLabel "kgO2/jr"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/23> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/23> a skos:Concept, par:Eenheid;
     skos:notation "E_118";
     skos:prefLabel "kgO2/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/24> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/24> a skos:Concept, par:Eenheid;
     skos:notation "E_119";
     skos:prefLabel "gC"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/25> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/25> a skos:Concept, par:Eenheid;
     skos:notation "E_120";
     skos:prefLabel "kgC"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/26> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/26> a skos:Concept, par:Eenheid;
     skos:notation "E_121";
     skos:prefLabel "kgC/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/27> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/27> a skos:Concept, par:Eenheid;
     skos:notation "E_122";
     skos:prefLabel "gC/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/28> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/28> a skos:Concept, par:Eenheid;
     skos:notation "E_123";
     skos:prefLabel "mgC/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/29> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/29> a skos:Concept, par:Eenheid;
     skos:notation "E_124";
     skos:prefLabel "gC/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/2> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/2> a skos:Concept, par:Eenheid;
     skos:notation "E_97";
     skos:prefLabel "µg/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/30> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/30> a skos:Concept, par:Eenheid;
     skos:notation "E_125";
     skos:prefLabel "mgN/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/31> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/31> a skos:Concept, par:Eenheid;
     skos:notation "E_126";
     skos:prefLabel "mgNH4/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/32> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/32> a skos:Concept, par:Eenheid;
     skos:notation "E_127";
     skos:prefLabel "mgCl/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/33> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/33> a skos:Concept, par:Eenheid;
     skos:notation "E_128";
     skos:prefLabel "mgCl/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/34> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/34> a skos:Concept, par:Eenheid;
     skos:notation "E_129";
     skos:prefLabel "µgCl/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/35> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/35> a skos:Concept, par:Eenheid;
     skos:notation "E_130";
     skos:prefLabel "mgP/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/36> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/36> a skos:Concept, par:Eenheid;
     skos:notation "E_131";
     skos:prefLabel "mgP/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/37> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/37> a skos:Concept, par:Eenheid;
     skos:notation "E_132";
     skos:prefLabel "µgP/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/38> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/38> a skos:Concept, par:Eenheid;
     skos:notation "E_133";
     skos:prefLabel "µgSn/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/39> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/39> a skos:Concept, par:Eenheid;
     skos:notation "E_134";
     skos:prefLabel "mgSn/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/3> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/3> a skos:Concept, par:Eenheid;
     skos:notation "E_98";
     skos:prefLabel "µg/kg ng"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/40> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/40> a skos:Concept, par:Eenheid;
     skos:notation "E_135";
     skos:prefLabel "ngSn/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/41> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/41> a skos:Concept, par:Eenheid;
     skos:notation "E_136";
     skos:prefLabel "µgSn/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/42> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/42> a skos:Concept, par:Eenheid;
     skos:notation "E_137";
     skos:prefLabel "mgS/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/43> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/43> a skos:Concept, par:Eenheid;
     skos:notation "E_138";
     skos:prefLabel "µgS/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/44> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/44> a skos:Concept, par:Eenheid;
     skos:notation "E_139";
     skos:prefLabel "mgCaCO3/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/45> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/45> a skos:Concept, par:Eenheid;
     skos:notation "E_140";
     skos:prefLabel "mgSiO2/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/46> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/46> a skos:Concept, par:Eenheid;
     skos:notation "E_141";
     skos:prefLabel "gP/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/47> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/47> a skos:Concept, par:Eenheid;
     skos:notation "E_142";
     skos:prefLabel "kgP/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/48> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/48> a skos:Concept, par:Eenheid;
     skos:notation "E_143";
     skos:prefLabel "tP/jr"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/49> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/49> a skos:Concept, par:Eenheid;
     skos:notation "E_144";
     skos:prefLabel "kgP/u"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/4> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/4> a skos:Concept, par:Eenheid;
     skos:notation "E_99";
     skos:prefLabel "g/g ng"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/50> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/50> a skos:Concept, par:Eenheid;
     skos:notation "E_145";
     skos:prefLabel "kgP/jr"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/51> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/51> a skos:Concept, par:Eenheid;
     skos:notation "E_146";
     skos:prefLabel "mgCl/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/52> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/52> a skos:Concept, par:Eenheid;
     skos:notation "E_147";
     skos:prefLabel "gCl/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/53> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/53> a skos:Concept, par:Eenheid;
     skos:notation "E_148";
     skos:prefLabel "kgCl/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/54> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/54> a skos:Concept, par:Eenheid;
     skos:notation "E_149";
     skos:prefLabel "kgCl"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/55> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/55> a skos:Concept, par:Eenheid;
     skos:notation "E_150";
     skos:prefLabel "mgCl"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/56> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/56> a skos:Concept, par:Eenheid;
     skos:notation "E_151";
     skos:prefLabel "kgP"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/57> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/57> a skos:Concept, par:Eenheid;
     skos:notation "E_152";
     skos:prefLabel "gP"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/58> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/58> a skos:Concept, par:Eenheid;
     skos:notation "E_153";
     skos:prefLabel "µgSn"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/59> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/59> a skos:Concept, par:Eenheid;
     skos:notation "E_154";
     skos:prefLabel "17b estradiol eq/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/5> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/5> a skos:Concept, par:Eenheid;
     skos:notation "E_100";
     skos:prefLabel "mgC/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/60> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/60> a skos:Concept, par:Eenheid;
     skos:notation "E_155";
     skos:prefLabel "dexamethasone eq/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/61> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/61> a skos:Concept, par:Eenheid;
     skos:notation "E_156";
     skos:prefLabel "actinomycin D eq/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/62> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/62> a skos:Concept, par:Eenheid;
     skos:notation "E_157";
     skos:prefLabel "benzo(a)pyrene eq/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/63> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/63> a skos:Concept, par:Eenheid;
     skos:notation "E_158";
     skos:prefLabel "nicardipine eq/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/64> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/64> a skos:Concept, par:Eenheid;
     skos:notation "E_159";
     skos:prefLabel "ngTEQ/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/65> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/65> a skos:Concept, par:Eenheid;
     skos:notation "E_160";
     skos:prefLabel "µgWHO-TEQ2005/kg ng"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/66> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/66> a skos:Concept, par:Eenheid;
     skos:notation "E_161";
     skos:prefLabel "pg WHO-TEQ2005/g ng"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/67> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/67> a skos:Concept, par:Eenheid;
     skos:notation "E_162";
     skos:prefLabel "%effect"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/68> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/68> a skos:Concept, par:Eenheid;
     skos:notation "E_163";
     skos:prefLabel "%mort"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/69> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/69> a skos:Concept, par:Eenheid;
     skos:notation "E_164";
     skos:prefLabel "mgTEQ/jr"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/6> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/6> a skos:Concept, par:Eenheid;
     skos:notation "E_101";
     skos:prefLabel "µgC/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/70> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/70> a skos:Concept, par:Eenheid;
     skos:notation "E_165";
     skos:prefLabel "µgC9PEO/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/71> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/71> a skos:Concept, par:Eenheid;
     skos:notation "E_166";
     skos:prefLabel "µgC13EO/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/72> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/72> a skos:Concept, par:Eenheid;
     skos:notation "E_167";
     skos:prefLabel "µg TBySn ac. eq./L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/73> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/73> a skos:Concept, par:Eenheid;
     skos:notation "E_168";
     skos:prefLabel "µgSn/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/74> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/74> a skos:Concept, par:Eenheid;
     skos:notation "E_169";
     skos:prefLabel "gCl"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/75> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/75> a skos:Concept, par:Eenheid;
     skos:notation "E_170";
     skos:prefLabel "kgO2/u"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/76> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/76> a skos:Concept, par:Eenheid;
     skos:notation "E_171";
     skos:prefLabel "mgP/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/77> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/77> a skos:Concept, par:Eenheid;
     skos:notation "E_172";
     skos:prefLabel "mg/Nm³"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/78> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/78> a skos:Concept, par:Eenheid;
     skos:notation "E_173";
     skos:prefLabel "pgTEQ/Nm³"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/79> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/79> a skos:Concept, par:Eenheid;
     skos:notation "E_174";
     skos:prefLabel "gTEQ/jr"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/7> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/7> a skos:Concept, par:Eenheid;
     skos:notation "E_102";
     skos:prefLabel "mgO2/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/80> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/80> a skos:Concept, par:Eenheid;
     skos:notation "E_175";
     skos:prefLabel "Nm³/u"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/81> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/81> a skos:Concept, par:Eenheid;
     skos:notation "E_176";
     skos:prefLabel "µgTEQ/u"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/82> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/82> a skos:Concept, par:Eenheid;
     skos:notation "E_177";
     skos:prefLabel "MWth"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/83> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/83> a skos:Concept, par:Eenheid;
     skos:notation "E_178";
     skos:prefLabel "mgF/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/84> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/84> a skos:Concept, par:Eenheid;
     skos:notation "E_179";
     skos:prefLabel "µgF/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/85> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/85> a skos:Concept, par:Eenheid;
     skos:notation "E_180";
     skos:prefLabel "mgF"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/86> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/86> a skos:Concept, par:Eenheid;
     skos:notation "E_181";
     skos:prefLabel "kgF/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/87> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/87> a skos:Concept, par:Eenheid;
     skos:notation "E_182";
     skos:prefLabel "mgF/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/88> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/88> a skos:Concept, par:Eenheid;
     skos:notation "E_183";
     skos:prefLabel "kgF"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/89> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/89> a skos:Concept, par:Eenheid;
     skos:notation "E_184";
     skos:prefLabel "gF"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/8> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/8> a skos:Concept, par:Eenheid;
     skos:notation "E_103";
     skos:prefLabel "mgN/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/90> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/90> a skos:Concept, par:Eenheid;
     skos:notation "E_185";
     skos:prefLabel "gF/d"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/91> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/91> a skos:Concept, par:Eenheid;
     skos:notation "E_188";
     skos:prefLabel "ng 17b estrad eq/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/92> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/92> a skos:Concept, par:Eenheid;
     skos:notation "E_189";
     skos:prefLabel "ng PFOA eq/L"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/93> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/93> a skos:Concept, par:Eenheid;
     skos:notation "E_190";
     skos:prefLabel "ng PFOA eq/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/94> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/94> a skos:Concept, par:Eenheid;
     skos:notation "E_191";
     skos:prefLabel "ng TCDD eq/kg ds"@nl.
-<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/9> a par:Eenheid;
+<https://data.omgeving.vlaanderen.be/id/concept/eenheidsalias/9> a skos:Concept, par:Eenheid;
     skos:notation "E_104";
     skos:prefLabel "µgN/L"@nl.
 <https://data.omgeving.vlaanderen.be/id/concept/kwantificeerbaar_aspect/32> a par:KwantificeerbaarAspect;
